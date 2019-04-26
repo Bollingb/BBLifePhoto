@@ -8,14 +8,14 @@ you will see through the pictures below I have made some amazing memories.
 
 <!-- end -->
 
-![Graduation](./graduation.JPG)
-
 ## Getting Started
 
-At first I had struggled quite a bit with being away from home. The picture above
+At first I had struggled quite a bit with being away from home. The picture below
 is of me and my cousin Bradley, and it just reminds me of all the friends I had
 to leave back. Nonetheless I decided to give college my best shot and be open to
 new things!
+
+![Graduation](./graduation.JPG)
 
 ## Being Comfortable On Campus
 
@@ -30,5 +30,7 @@ Trying to find yourself in college is one of the hardest things to do! I persona
 ![Rugby](./Rugby.JPG)
 
 ## Lifelong Friends
+
+College can also be a place where you meet friends that you will have forever! I decided to try something new with participating in Greek life and I could not have made a better decision. These guys are some of my closest friends and people I know I can rely on the most!
 
 ![Friends](./Friends.JPG)
