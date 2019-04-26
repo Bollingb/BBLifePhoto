@@ -1,10 +1,11 @@
 ---
 title: Welcome To Brandon Bolling Life Photos!
 date: "2019-04-01"
-featuredImage: './featured.jpg'
 ---
 
 Welcome to my personal photography portfolio! Scroll through and enjoy a look into my life.
+
+![Space](./space.jpg)
 
 <!-- end -->
 
@@ -23,20 +24,11 @@ Some of my hobbies include :
 *  Playing with my dog
 *  Rugby
 
-
 ### Pellentesque consectetur facilisis venenatis
 
 Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus [elementum dapibus nibh](https://google.com), eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
 
 > Quisque tempor nulla turpis, ut placerat arcu lobortis nec. Aenean sed vehicula nisi. Nullam vitae placerat enim. Etiam hendrerit enim vel tempor fermentum. Morbi rutrum euismod ipsum a luctus.
-
-### Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et
-
-Morbi posuere facilisis eros vel euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam malesuada dapibus dolor non cursus. Sed in turpis justo. Cras sed hendrerit nulla. Sed ornare, leo et suscipit tincidunt, justo diam sollicitudin risus, vitae vulputate nulla augue et lacus.
-
-1.  Morbi posuere facilisis
-2.  Pellentesque habitant morbi tristique
-3.  Etiam malesuada dapibus
 
 #### Sed ac orci a dolor venenatis vulputate
 
