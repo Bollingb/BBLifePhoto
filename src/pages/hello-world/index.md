@@ -1,6 +1,6 @@
 ---
 title: College-Freshman Year
-date: "2019-4-26"
+date: "2019-04-26"
 ---
 
 College has been one of the greatest, and hardest times of my life. Yet, as
