@@ -10,9 +10,7 @@ Welcome to my personal photography portfolio! Scroll through and enjoy a look in
 
 ## About Me
 
-I am currently a freshman ---> going into my sophomore year at Allegheny College.
-I'm an Integrative Informatics and Environmental Science Double major because
-I love nature and technology!
+I am currently a freshman ---> going into my sophomore year at [Allegheny College](https://allegheny.edu/). I'm an Integrative Informatics and Environmental Science Double major because I love nature and technology!
 
 
 ### Pellentesque consectetur facilisis venenatis
@@ -44,12 +42,6 @@ Pellentesque consectetur facilisis venenatis. Nam ullamcorper, orci nec tempor h
 ##### Nulla nec dui vulputate, semper orci in, sagittis dolor
 
 Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam. Sed ac orci a dolor venenatis vulputate. Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
-
-```javascript
-$(document).ready(function() {
-    console.log('More jQuery, wow!')
-})
-```
 
 ###### ras aliquet ipsum ut enim pellentesque, id varius quam placerat
 

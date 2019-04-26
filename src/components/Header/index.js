@@ -24,12 +24,11 @@ function Header({ config }) {
           <Social
             website={social.website}
             github={social.github}
-            twitter={social.twitter}
-            linkedin={social.linkedin}
+            Instagram={social.instagram}
           />
         }
       </Wrapper>
-    </Container> 
+    </Container>
   );
 }
 
