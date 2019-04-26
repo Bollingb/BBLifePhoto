@@ -10,7 +10,18 @@ Welcome to my personal photography portfolio! Scroll through and enjoy a look in
 
 ## About Me
 
-I am currently a freshman ---> going into my sophomore year at [Allegheny College](https://allegheny.edu/). I'm an Integrative Informatics and Environmental Science Double major because I love nature and technology!
+I am currently a freshman ---> going into my sophomore year at [Allegheny College](https://allegheny.edu/). I'm an Integrative Informatics and Environmental Science Double major because I love nature and technology! I was
+born in Troy, Alabama. However, I was raised in the beautiful city of Erie, PA!
+While in Erie I attend Fort Leboeuf High School, where I played Football, Track
+and Field, and wrestling.
+
+Some of my hobbies include :
+
+*  Hunting
+*  Fishing
+*  Weightlifting
+*  Playing with my dog
+*  Rugby
 
 
 ### Pellentesque consectetur facilisis venenatis
