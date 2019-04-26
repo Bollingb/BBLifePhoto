@@ -7,7 +7,7 @@ _My mom and brother are the two people I lookup to the most, and are one of the 
 
 ## My Mom Valerie
 
-I am very close with my family so I knew I had to put them somewhere in my collection of pictures. My mom's name is Valerie, and she works at an animal clinic.
+I am very close with my family so I knew I had to put them somewhere in my collection of pictures. My mom's name is Valerie, and she works at an animal clinic. She is one of the sweetest people you will ever meet, and is a big part of why I love animals so much!
 
 ![Mom](./Mom.jpg)
 
