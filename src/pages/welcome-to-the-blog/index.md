@@ -1,6 +1,6 @@
 ---
 title: Welcome To Brandon Bolling Life Photos!
-date: "2019-04-01"
+date: "---------------------------------------"
 featuredImage: './featured.jpg'
 ---
 
