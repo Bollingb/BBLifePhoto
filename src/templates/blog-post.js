@@ -31,7 +31,7 @@ class BlogPostTemplate extends React.Component {
       <Layout>
         <Container>
           <Helmet
-            title={`${post.frontmatter.title} | ${author}`}
+            title={`${post.frontmatter.title} | ${Brandon Bolling}`}
             htmlAttributes={{ lang: 'en' }}
           >
             <meta
