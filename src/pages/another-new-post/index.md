@@ -7,12 +7,12 @@ _My mom and brother are the two people I lookup to the most, and are one of the 
 
 ## My Mom Valerie
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula.
-
-Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.
+I am very close with my family so I knew I had to put them somewhere in my collection of pictures. My mom's name is Valerie, and she works at an animal clinic.
 
 ![Mom](./Mom.jpg)
 
 ## My Brother Jacob
 
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis.
+I am also very close with my brother Jacob. He currently attends Gannon University and is studying Pre-Med! He is the one directly next to me wearing a blue sweater in the picture below.
+
+![Brother](./Brother.jpg)
