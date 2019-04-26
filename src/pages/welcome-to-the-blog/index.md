@@ -8,9 +8,11 @@ Welcome to my personal photography portfolio! Scroll through and enjoy a look in
 
 <!-- end -->
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+## About Me
 
-Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
+I am currently a freshman ---> going into my sophomore year at Allegheny College.
+I'm an Integrative Informatics and Environmental Science Double major because
+I love nature and technology!
 
 *   Morbi sit amet turpis a purus
 *   Etiam tempor ultricies mi
