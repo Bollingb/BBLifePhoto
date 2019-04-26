@@ -4,9 +4,7 @@ date: "2019-04-01"
 featuredImage: './featured.jpg'
 ---
 
-Welcome to my personal photography portfolio!                                   
-
-Scroll through and enjoy a look into my life.
+_Welcome to my personal photography portfolio! Scroll through and enjoy a look into my life._
 
 <!-- end -->
 
