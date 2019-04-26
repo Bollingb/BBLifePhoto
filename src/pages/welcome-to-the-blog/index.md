@@ -4,7 +4,7 @@ date: "2019-04-01"
 featuredImage: './featured.jpg'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up
+Welcome to my personal photography portfolio! Scroll through and enjoy a look into my life. --email me if you have any questions--
 
 <!-- end -->
 
