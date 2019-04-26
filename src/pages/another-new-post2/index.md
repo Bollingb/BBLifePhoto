@@ -7,18 +7,12 @@ _My pets are some of the things I love most in this world, so here's a small loo
 
 ## Charlie
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula.
+This is my black lab Charlie! He is currently two years old and is **FILLED** with unnatural amounts of energy. We got him from my aunt and have been loving him ever since!
 
-![Train Tracks](./traintrack.jpg)
+![Charlie](./Charlie.jpg)
 
-## Tyson
+## Tyson, Fluffy, Oreo
 
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis.
+These are my cats Tyson, Fluffy, and Oreo! Tyson is the youngest at four years old, while the other two have been with me for quite a while. I had even gotten Oreo when I lived in Atlanta in first grade!
 
-## Fluffy
-
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis.
-
-## Oreo
-
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis.
+![Kitty](./Cats.jpg)
