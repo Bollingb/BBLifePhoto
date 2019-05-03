@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Photography Portfolio', // Required
   author: 'Brandon Bolling Photos', // Required
-  description: 'A Constantly Updated Look At My Life! (Mobile Friendly)',
+  description: 'A Constantly Updated Look At My Life! |Mobile Friendly|',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
