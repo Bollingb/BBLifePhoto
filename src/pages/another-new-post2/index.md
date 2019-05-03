@@ -3,7 +3,7 @@ title: My Pets!
 date: "2018-06-29"
 ---
 
-_My pets are some of the things I love most in this world, so here's a small look at them!_
+My pets are some of the things I love most in this world, so here's a small look at them!
 
 ## Charlie
 

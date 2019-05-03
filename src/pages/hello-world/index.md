@@ -3,8 +3,8 @@ title: College-Freshman Year
 date: "2018-06-29"
 ---
 
-_College has been one of the greatest, and hardest times of my life. As
-you will see through the pictures below I have made some amazing memories._
+College has been one of the greatest, and hardest times of my life. As
+you will see through the pictures below I have made some amazing memories.
 
 <!-- end -->
 

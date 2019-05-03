@@ -3,7 +3,7 @@ title: Family!
 date: "2018-06-29"
 ---
 
-_My mom and brother are the two people I lookup to the most, and are one of the biggest motivations for me here at Allegheny!_
+My mom and brother are the two people I lookup to the most, and are one of the biggest motivations for me here at Allegheny!
 
 ## My Mom Valerie
 
