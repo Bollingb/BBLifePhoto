@@ -1,6 +1,6 @@
 ---
 title: Family!
-date: "2018-06-29"
+date: "2019-05-03"
 ---
 
 My mom and brother are the two people I lookup to the most, and are one of the biggest motivations for me here at Allegheny!
